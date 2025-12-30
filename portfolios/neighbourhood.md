@@ -16,4 +16,4 @@
 - Firebase Firestore
 
 ### 3. 스크린샷
-[](./neighbourhood.png)
+<img src="./neighbourhood.png" width="800px" alt="스크린샷"></img><br/>
